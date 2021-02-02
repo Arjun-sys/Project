@@ -1,0 +1,13 @@
+﻿@model List<string>
+@{
+    ViewData["Title"] = "Index";
+    int counter = 1;
+}
+
+<h1>Index</h1>
+@foreach(var item in Model )
+{
+    <p>@counter<span>@item</span></p>
+    counter++;
+}
+

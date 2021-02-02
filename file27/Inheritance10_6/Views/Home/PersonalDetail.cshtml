@@ -1,0 +1,53 @@
+﻿@model PersonalDetail
+@{
+    ViewData["Title"] = "PersonalDetail";
+}
+
+<h1>PersonalDetail</h1>
+<h2>Here is my personal details</h2>
+
+@Html.ActionLink("Person List", "Persons", "Home", null, new { @class = "btn btn-primary" })
+<table border="1">
+    <tr>
+        <td>Particular</td>
+        <td>Details</td>
+    </tr>
+    <tr>
+        <td>
+            <img src="@Url.Content("~/"+Model.ImageLocation)" />
+        </td>
+        <td>
+            @if (!string.IsNullOrEmpty(Model.ImageLocation))
+            {
+                <a target="_blank" href="@Url.Action("DownloadFile","Home",new { personId = Model.PersonalDetailId })">Click to downlaod / view </a>
+            }
+
+        </td>
+        <td>
+            @if (!string.IsNullOrEmpty(Model.ImageLocation))
+            {
+                <a target="_blank" href="@Url.Content("~/"+Model.ImageLocation)">Click to downlaod / view </a>
+            }
+
+        </td>
+
+    </tr>
+    <tr>
+        <td>@Html.DisplayNameFor(x => x.FirstName)</td>
+        <td>@Html.DisplayFor(x => Model.FirstName)</td>
+    </tr>
+    <tr>
+        <td>@Html.DisplayNameFor(x => x.Address)</td>
+        <td>@Html.DisplayFor(x => Model.Address)</td>
+    </tr>
+    <tr>
+        <td>@Html.DisplayNameFor(x => x.Age)</td>
+        <td>@Html.DisplayFor(x => Model.Age)</td>
+    </tr>
+    <tr>
+        <td>@Html.DisplayNameFor(x => x.Occupation)</td>
+        <td>@Html.DisplayFor(x => Model.Occupation)</td>
+    </tr>
+
+</table>
+

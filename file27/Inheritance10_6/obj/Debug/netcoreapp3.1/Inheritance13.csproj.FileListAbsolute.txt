@@ -1,0 +1,349 @@
+D:\Dot net practical\Inheritance13\Inheritance10_6\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Dot net practical\Inheritance13\Inheritance10_6\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Dot net practical\Inheritance13\Inheritance10_6\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Dot net practical\Inheritance13\Inheritance10_6\bin\Debug\netcoreapp3.1\Inheritance13.exe
+D:\Dot net practical\Inheritance13\Inheritance10_6\bin\Debug\netcoreapp3.1\Inheritance13.deps.json
+D:\Dot net practical\Inheritance13\Inheritance10_6\bin\Debug\netcoreapp3.1\Inheritance13.runtimeconfig.json
+D:\Dot net practical\Inheritance13\Inheritance10_6\bin\Debug\netcoreapp3.1\Inheritance13.runtimeconfig.dev.json
+D:\Dot net practical\Inheritance13\Inheritance10_6\bin\Debug\netcoreapp3.1\Inheritance13.dll
+D:\Dot net practical\Inheritance13\Inheritance10_6\bin\Debug\netcoreapp3.1\Inheritance13.pdb
+D:\Dot net practical\Inheritance13\Inheritance10_6\bin\Debug\netcoreapp3.1\Inheritance13.Views.dll
+D:\Dot net practical\Inheritance13\Inheritance10_6\bin\Debug\netcoreapp3.1\Inheritance13.Views.pdb
+D:\Dot net practical\Inheritance13\Inheritance10_6\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Dot net practical\Inheritance13\Inheritance10_6\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Dot net practical\Inheritance13\Inheritance10_6\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Dot net practical\Inheritance13\Inheritance10_6\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Dot net practical\Inheritance13\Inheritance10_6\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Dot net practical\Inheritance13\Inheritance10_6\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Dot net practical\Inheritance13\Inheritance10_6\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Dot net practical\Inheritance13\Inheritance10_6\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Dot net practical\Inheritance13\Inheritance10_6\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Dot net practical\Inheritance13\Inheritance10_6\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Dot net practical\Inheritance13\Inheritance10_6\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Dot net practical\Inheritance13\Inheritance10_6\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Dot net practical\Inheritance13\Inheritance10_6\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Dot net practical\Inheritance13\Inheritance10_6\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Dot net practical\Inheritance13\Inheritance10_6\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Dot net practical\Inheritance13\Inheritance10_6\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Dot net practical\Inheritance13\Inheritance10_6\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Dot net practical\Inheritance13\Inheritance10_6\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Dot net practical\Inheritance13\Inheritance10_6\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Dot net practical\Inheritance13\Inheritance10_6\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Dot net practical\Inheritance13\Inheritance10_6\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Dot net practical\Inheritance13\Inheritance10_6\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Dot net practical\Inheritance13\Inheritance10_6\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Dot net practical\Inheritance13\Inheritance10_6\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Dot net practical\Inheritance13\Inheritance10_6\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Dot net practical\Inheritance13\Inheritance10_6\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Dot net practical\Inheritance13\Inheritance10_6\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Dot net practical\Inheritance13\Inheritance10_6\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Dot net practical\Inheritance13\Inheritance10_6\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Dot net practical\Inheritance13\Inheritance10_6\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Dot net practical\Inheritance13\Inheritance10_6\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Dot net practical\Inheritance13\Inheritance10_6\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Dot net practical\Inheritance13\Inheritance10_6\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Dot net practical\Inheritance13\Inheritance10_6\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Dot net practical\Inheritance13\Inheritance10_6\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dot net practical\Inheritance13\Inheritance10_6\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dot net practical\Inheritance13\Inheritance10_6\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dot net practical\Inheritance13\Inheritance10_6\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dot net practical\Inheritance13\Inheritance10_6\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dot net practical\Inheritance13\Inheritance10_6\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dot net practical\Inheritance13\Inheritance10_6\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dot net practical\Inheritance13\Inheritance10_6\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dot net practical\Inheritance13\Inheritance10_6\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dot net practical\Inheritance13\Inheritance10_6\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dot net practical\Inheritance13\Inheritance10_6\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dot net practical\Inheritance13\Inheritance10_6\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dot net practical\Inheritance13\Inheritance10_6\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dot net practical\Inheritance13\Inheritance10_6\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dot net practical\Inheritance13\Inheritance10_6\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dot net practical\Inheritance13\Inheritance10_6\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dot net practical\Inheritance13\Inheritance10_6\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dot net practical\Inheritance13\Inheritance10_6\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dot net practical\Inheritance13\Inheritance10_6\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dot net practical\Inheritance13\Inheritance10_6\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dot net practical\Inheritance13\Inheritance10_6\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dot net practical\Inheritance13\Inheritance10_6\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dot net practical\Inheritance13\Inheritance10_6\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dot net practical\Inheritance13\Inheritance10_6\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dot net practical\Inheritance13\Inheritance10_6\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dot net practical\Inheritance13\Inheritance10_6\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dot net practical\Inheritance13\Inheritance10_6\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dot net practical\Inheritance13\Inheritance10_6\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dot net practical\Inheritance13\Inheritance10_6\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dot net practical\Inheritance13\Inheritance10_6\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dot net practical\Inheritance13\Inheritance10_6\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dot net practical\Inheritance13\Inheritance10_6\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dot net practical\Inheritance13\Inheritance10_6\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dot net practical\Inheritance13\Inheritance10_6\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dot net practical\Inheritance13\Inheritance10_6\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dot net practical\Inheritance13\Inheritance10_6\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dot net practical\Inheritance13\Inheritance10_6\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dot net practical\Inheritance13\Inheritance10_6\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dot net practical\Inheritance13\Inheritance10_6\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dot net practical\Inheritance13\Inheritance10_6\obj\Debug\netcoreapp3.1\Inheritance13.csprojAssemblyReference.cache
+D:\Dot net practical\Inheritance13\Inheritance10_6\obj\Debug\netcoreapp3.1\Inheritance13.AssemblyInfoInputs.cache
+D:\Dot net practical\Inheritance13\Inheritance10_6\obj\Debug\netcoreapp3.1\Inheritance13.AssemblyInfo.cs
+D:\Dot net practical\Inheritance13\Inheritance10_6\obj\Debug\netcoreapp3.1\Inheritance13.csproj.CoreCompileInputs.cache
+D:\Dot net practical\Inheritance13\Inheritance10_6\obj\Debug\netcoreapp3.1\Inheritance13.MvcApplicationPartsAssemblyInfo.cache
+D:\Dot net practical\Inheritance13\Inheritance10_6\obj\Debug\netcoreapp3.1\Inheritance13.RazorAssemblyInfo.cache
+D:\Dot net practical\Inheritance13\Inheritance10_6\obj\Debug\netcoreapp3.1\Inheritance13.RazorAssemblyInfo.cs
+D:\Dot net practical\Inheritance13\Inheritance10_6\obj\Debug\netcoreapp3.1\Inheritance13.TagHelpers.input.cache
+D:\Dot net practical\Inheritance13\Inheritance10_6\obj\Debug\netcoreapp3.1\Inheritance13.TagHelpers.output.cache
+D:\Dot net practical\Inheritance13\Inheritance10_6\obj\Debug\netcoreapp3.1\Inheritance13.RazorCoreGenerate.cache
+D:\Dot net practical\Inheritance13\Inheritance10_6\obj\Debug\netcoreapp3.1\Razor\Views\Home\AboutMe.cshtml.g.cs
+D:\Dot net practical\Inheritance13\Inheritance10_6\obj\Debug\netcoreapp3.1\Razor\Views\Home\CreatePersonDetail.cshtml.g.cs
+D:\Dot net practical\Inheritance13\Inheritance10_6\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Dot net practical\Inheritance13\Inheritance10_6\obj\Debug\netcoreapp3.1\Razor\Views\Home\PersonalDetail.cshtml.g.cs
+D:\Dot net practical\Inheritance13\Inheritance10_6\obj\Debug\netcoreapp3.1\Razor\Views\Home\PersonalDetailEdit.cshtml.g.cs
+D:\Dot net practical\Inheritance13\Inheritance10_6\obj\Debug\netcoreapp3.1\Razor\Views\Home\Persons.cshtml.g.cs
+D:\Dot net practical\Inheritance13\Inheritance10_6\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Dot net practical\Inheritance13\Inheritance10_6\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Dot net practical\Inheritance13\Inheritance10_6\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Dot net practical\Inheritance13\Inheritance10_6\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Dot net practical\Inheritance13\Inheritance10_6\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Dot net practical\Inheritance13\Inheritance10_6\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Dot net practical\Inheritance13\Inheritance10_6\obj\Debug\netcoreapp3.1\Inheritance13.RazorTargetAssemblyInfo.cache
+D:\Dot net practical\Inheritance13\Inheritance10_6\obj\Debug\netcoreapp3.1\Inheritance13.RazorTargetAssemblyInfo.cs
+D:\Dot net practical\Inheritance13\Inheritance10_6\obj\Debug\netcoreapp3.1\Inheritance13.Views.pdb
+D:\Dot net practical\Inheritance13\Inheritance10_6\obj\Debug\netcoreapp3.1\Inheritance13.csproj.CopyComplete
+D:\Dot net practical\Inheritance13\Inheritance10_6\obj\Debug\netcoreapp3.1\staticwebassets\Inheritance13.StaticWebAssets.Manifest.cache
+D:\Dot net practical\Inheritance13\Inheritance10_6\obj\Debug\netcoreapp3.1\staticwebassets\Inheritance13.StaticWebAssets.xml
+D:\Dot net practical\Inheritance13\Inheritance10_6\obj\Debug\netcoreapp3.1\Inheritance13.dll
+D:\Dot net practical\Inheritance13\Inheritance10_6\obj\Debug\netcoreapp3.1\Inheritance13.pdb
+D:\Dot net practical\Inheritance13\Inheritance10_6\obj\Debug\netcoreapp3.1\Inheritance13.genruntimeconfig.cache
+D:\Dot net practical\Inheritance13\Inheritance10_6\obj\Debug\netcoreapp3.1\Razor\Views\Home\PersonalDetailDelete.cshtml.g.cs
+D:\Dot net practical\image 26\Inheritance10_6\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Dot net practical\image 26\Inheritance10_6\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Dot net practical\image 26\Inheritance10_6\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Dot net practical\image 26\Inheritance10_6\bin\Debug\netcoreapp3.1\Inheritance13.exe
+D:\Dot net practical\image 26\Inheritance10_6\bin\Debug\netcoreapp3.1\Inheritance13.deps.json
+D:\Dot net practical\image 26\Inheritance10_6\bin\Debug\netcoreapp3.1\Inheritance13.runtimeconfig.json
+D:\Dot net practical\image 26\Inheritance10_6\bin\Debug\netcoreapp3.1\Inheritance13.runtimeconfig.dev.json
+D:\Dot net practical\image 26\Inheritance10_6\bin\Debug\netcoreapp3.1\Inheritance13.dll
+D:\Dot net practical\image 26\Inheritance10_6\bin\Debug\netcoreapp3.1\Inheritance13.pdb
+D:\Dot net practical\image 26\Inheritance10_6\bin\Debug\netcoreapp3.1\Inheritance13.Views.dll
+D:\Dot net practical\image 26\Inheritance10_6\bin\Debug\netcoreapp3.1\Inheritance13.Views.pdb
+D:\Dot net practical\image 26\Inheritance10_6\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Dot net practical\image 26\Inheritance10_6\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Dot net practical\image 26\Inheritance10_6\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Dot net practical\image 26\Inheritance10_6\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Dot net practical\image 26\Inheritance10_6\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Dot net practical\image 26\Inheritance10_6\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Dot net practical\image 26\Inheritance10_6\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Dot net practical\image 26\Inheritance10_6\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Dot net practical\image 26\Inheritance10_6\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Dot net practical\image 26\Inheritance10_6\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Dot net practical\image 26\Inheritance10_6\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Dot net practical\image 26\Inheritance10_6\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Dot net practical\image 26\Inheritance10_6\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Dot net practical\image 26\Inheritance10_6\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Dot net practical\image 26\Inheritance10_6\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Dot net practical\image 26\Inheritance10_6\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Dot net practical\image 26\Inheritance10_6\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Dot net practical\image 26\Inheritance10_6\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Dot net practical\image 26\Inheritance10_6\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Dot net practical\image 26\Inheritance10_6\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Dot net practical\image 26\Inheritance10_6\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Dot net practical\image 26\Inheritance10_6\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Dot net practical\image 26\Inheritance10_6\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Dot net practical\image 26\Inheritance10_6\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Dot net practical\image 26\Inheritance10_6\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Dot net practical\image 26\Inheritance10_6\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Dot net practical\image 26\Inheritance10_6\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Dot net practical\image 26\Inheritance10_6\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Dot net practical\image 26\Inheritance10_6\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Dot net practical\image 26\Inheritance10_6\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Dot net practical\image 26\Inheritance10_6\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Dot net practical\image 26\Inheritance10_6\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Dot net practical\image 26\Inheritance10_6\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Dot net practical\image 26\Inheritance10_6\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Dot net practical\image 26\Inheritance10_6\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dot net practical\image 26\Inheritance10_6\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dot net practical\image 26\Inheritance10_6\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dot net practical\image 26\Inheritance10_6\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dot net practical\image 26\Inheritance10_6\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dot net practical\image 26\Inheritance10_6\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dot net practical\image 26\Inheritance10_6\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dot net practical\image 26\Inheritance10_6\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dot net practical\image 26\Inheritance10_6\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dot net practical\image 26\Inheritance10_6\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dot net practical\image 26\Inheritance10_6\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dot net practical\image 26\Inheritance10_6\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dot net practical\image 26\Inheritance10_6\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dot net practical\image 26\Inheritance10_6\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dot net practical\image 26\Inheritance10_6\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dot net practical\image 26\Inheritance10_6\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dot net practical\image 26\Inheritance10_6\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dot net practical\image 26\Inheritance10_6\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dot net practical\image 26\Inheritance10_6\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dot net practical\image 26\Inheritance10_6\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dot net practical\image 26\Inheritance10_6\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dot net practical\image 26\Inheritance10_6\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dot net practical\image 26\Inheritance10_6\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dot net practical\image 26\Inheritance10_6\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dot net practical\image 26\Inheritance10_6\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dot net practical\image 26\Inheritance10_6\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dot net practical\image 26\Inheritance10_6\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dot net practical\image 26\Inheritance10_6\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dot net practical\image 26\Inheritance10_6\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dot net practical\image 26\Inheritance10_6\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dot net practical\image 26\Inheritance10_6\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dot net practical\image 26\Inheritance10_6\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dot net practical\image 26\Inheritance10_6\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dot net practical\image 26\Inheritance10_6\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dot net practical\image 26\Inheritance10_6\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dot net practical\image 26\Inheritance10_6\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dot net practical\image 26\Inheritance10_6\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dot net practical\image 26\Inheritance10_6\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dot net practical\image 26\Inheritance10_6\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dot net practical\image 26\Inheritance10_6\obj\Debug\netcoreapp3.1\Inheritance13.csprojAssemblyReference.cache
+D:\Dot net practical\image 26\Inheritance10_6\obj\Debug\netcoreapp3.1\Inheritance13.AssemblyInfoInputs.cache
+D:\Dot net practical\image 26\Inheritance10_6\obj\Debug\netcoreapp3.1\Inheritance13.AssemblyInfo.cs
+D:\Dot net practical\image 26\Inheritance10_6\obj\Debug\netcoreapp3.1\Inheritance13.csproj.CoreCompileInputs.cache
+D:\Dot net practical\image 26\Inheritance10_6\obj\Debug\netcoreapp3.1\Inheritance13.MvcApplicationPartsAssemblyInfo.cache
+D:\Dot net practical\image 26\Inheritance10_6\obj\Debug\netcoreapp3.1\Inheritance13.RazorAssemblyInfo.cache
+D:\Dot net practical\image 26\Inheritance10_6\obj\Debug\netcoreapp3.1\Inheritance13.RazorAssemblyInfo.cs
+D:\Dot net practical\image 26\Inheritance10_6\obj\Debug\netcoreapp3.1\Inheritance13.TagHelpers.input.cache
+D:\Dot net practical\image 26\Inheritance10_6\obj\Debug\netcoreapp3.1\Inheritance13.TagHelpers.output.cache
+D:\Dot net practical\image 26\Inheritance10_6\obj\Debug\netcoreapp3.1\Inheritance13.RazorCoreGenerate.cache
+D:\Dot net practical\image 26\Inheritance10_6\obj\Debug\netcoreapp3.1\Razor\Views\Home\AboutMe.cshtml.g.cs
+D:\Dot net practical\image 26\Inheritance10_6\obj\Debug\netcoreapp3.1\Razor\Views\Home\CreatePersonDetail.cshtml.g.cs
+D:\Dot net practical\image 26\Inheritance10_6\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Dot net practical\image 26\Inheritance10_6\obj\Debug\netcoreapp3.1\Razor\Views\Home\PersonalDetail.cshtml.g.cs
+D:\Dot net practical\image 26\Inheritance10_6\obj\Debug\netcoreapp3.1\Razor\Views\Home\PersonalDetailDelete.cshtml.g.cs
+D:\Dot net practical\image 26\Inheritance10_6\obj\Debug\netcoreapp3.1\Razor\Views\Home\PersonalDetailEdit.cshtml.g.cs
+D:\Dot net practical\image 26\Inheritance10_6\obj\Debug\netcoreapp3.1\Razor\Views\Home\Persons.cshtml.g.cs
+D:\Dot net practical\image 26\Inheritance10_6\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Dot net practical\image 26\Inheritance10_6\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Dot net practical\image 26\Inheritance10_6\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Dot net practical\image 26\Inheritance10_6\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Dot net practical\image 26\Inheritance10_6\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Dot net practical\image 26\Inheritance10_6\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Dot net practical\image 26\Inheritance10_6\obj\Debug\netcoreapp3.1\Inheritance13.RazorTargetAssemblyInfo.cache
+D:\Dot net practical\image 26\Inheritance10_6\obj\Debug\netcoreapp3.1\Inheritance13.RazorTargetAssemblyInfo.cs
+D:\Dot net practical\image 26\Inheritance10_6\obj\Debug\netcoreapp3.1\Inheritance13.Views.pdb
+D:\Dot net practical\image 26\Inheritance10_6\obj\Debug\netcoreapp3.1\Inheritance13.csproj.CopyComplete
+D:\Dot net practical\image 26\Inheritance10_6\obj\Debug\netcoreapp3.1\staticwebassets\Inheritance13.StaticWebAssets.Manifest.cache
+D:\Dot net practical\image 26\Inheritance10_6\obj\Debug\netcoreapp3.1\staticwebassets\Inheritance13.StaticWebAssets.xml
+D:\Dot net practical\image 26\Inheritance10_6\obj\Debug\netcoreapp3.1\Inheritance13.dll
+D:\Dot net practical\image 26\Inheritance10_6\obj\Debug\netcoreapp3.1\Inheritance13.pdb
+D:\Dot net practical\image 26\Inheritance10_6\obj\Debug\netcoreapp3.1\Inheritance13.genruntimeconfig.cache
+D:\Dot net practical\file27\Inheritance10_6\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Dot net practical\file27\Inheritance10_6\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Dot net practical\file27\Inheritance10_6\bin\Debug\netcoreapp3.1\Inheritance13.exe
+D:\Dot net practical\file27\Inheritance10_6\bin\Debug\netcoreapp3.1\Inheritance13.deps.json
+D:\Dot net practical\file27\Inheritance10_6\bin\Debug\netcoreapp3.1\Inheritance13.runtimeconfig.json
+D:\Dot net practical\file27\Inheritance10_6\bin\Debug\netcoreapp3.1\Inheritance13.runtimeconfig.dev.json
+D:\Dot net practical\file27\Inheritance10_6\bin\Debug\netcoreapp3.1\Inheritance13.dll
+D:\Dot net practical\file27\Inheritance10_6\bin\Debug\netcoreapp3.1\Inheritance13.pdb
+D:\Dot net practical\file27\Inheritance10_6\bin\Debug\netcoreapp3.1\Inheritance13.Views.dll
+D:\Dot net practical\file27\Inheritance10_6\bin\Debug\netcoreapp3.1\Inheritance13.Views.pdb
+D:\Dot net practical\file27\Inheritance10_6\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Dot net practical\file27\Inheritance10_6\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Dot net practical\file27\Inheritance10_6\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Dot net practical\file27\Inheritance10_6\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Dot net practical\file27\Inheritance10_6\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Dot net practical\file27\Inheritance10_6\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Dot net practical\file27\Inheritance10_6\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Dot net practical\file27\Inheritance10_6\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Dot net practical\file27\Inheritance10_6\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Dot net practical\file27\Inheritance10_6\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Dot net practical\file27\Inheritance10_6\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Dot net practical\file27\Inheritance10_6\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Dot net practical\file27\Inheritance10_6\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Dot net practical\file27\Inheritance10_6\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Dot net practical\file27\Inheritance10_6\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Dot net practical\file27\Inheritance10_6\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Dot net practical\file27\Inheritance10_6\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Dot net practical\file27\Inheritance10_6\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Dot net practical\file27\Inheritance10_6\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Dot net practical\file27\Inheritance10_6\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Dot net practical\file27\Inheritance10_6\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Dot net practical\file27\Inheritance10_6\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Dot net practical\file27\Inheritance10_6\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Dot net practical\file27\Inheritance10_6\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Dot net practical\file27\Inheritance10_6\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Dot net practical\file27\Inheritance10_6\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Dot net practical\file27\Inheritance10_6\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Dot net practical\file27\Inheritance10_6\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Dot net practical\file27\Inheritance10_6\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Dot net practical\file27\Inheritance10_6\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Dot net practical\file27\Inheritance10_6\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Dot net practical\file27\Inheritance10_6\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Dot net practical\file27\Inheritance10_6\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Dot net practical\file27\Inheritance10_6\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Dot net practical\file27\Inheritance10_6\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dot net practical\file27\Inheritance10_6\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dot net practical\file27\Inheritance10_6\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dot net practical\file27\Inheritance10_6\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dot net practical\file27\Inheritance10_6\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dot net practical\file27\Inheritance10_6\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dot net practical\file27\Inheritance10_6\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dot net practical\file27\Inheritance10_6\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dot net practical\file27\Inheritance10_6\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dot net practical\file27\Inheritance10_6\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dot net practical\file27\Inheritance10_6\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dot net practical\file27\Inheritance10_6\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dot net practical\file27\Inheritance10_6\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dot net practical\file27\Inheritance10_6\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dot net practical\file27\Inheritance10_6\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dot net practical\file27\Inheritance10_6\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dot net practical\file27\Inheritance10_6\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dot net practical\file27\Inheritance10_6\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dot net practical\file27\Inheritance10_6\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dot net practical\file27\Inheritance10_6\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dot net practical\file27\Inheritance10_6\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dot net practical\file27\Inheritance10_6\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dot net practical\file27\Inheritance10_6\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dot net practical\file27\Inheritance10_6\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dot net practical\file27\Inheritance10_6\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dot net practical\file27\Inheritance10_6\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dot net practical\file27\Inheritance10_6\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dot net practical\file27\Inheritance10_6\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dot net practical\file27\Inheritance10_6\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dot net practical\file27\Inheritance10_6\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dot net practical\file27\Inheritance10_6\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dot net practical\file27\Inheritance10_6\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dot net practical\file27\Inheritance10_6\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dot net practical\file27\Inheritance10_6\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dot net practical\file27\Inheritance10_6\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dot net practical\file27\Inheritance10_6\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dot net practical\file27\Inheritance10_6\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dot net practical\file27\Inheritance10_6\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dot net practical\file27\Inheritance10_6\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dot net practical\file27\Inheritance10_6\obj\Debug\netcoreapp3.1\Inheritance13.csprojAssemblyReference.cache
+D:\Dot net practical\file27\Inheritance10_6\obj\Debug\netcoreapp3.1\Inheritance13.AssemblyInfoInputs.cache
+D:\Dot net practical\file27\Inheritance10_6\obj\Debug\netcoreapp3.1\Inheritance13.AssemblyInfo.cs
+D:\Dot net practical\file27\Inheritance10_6\obj\Debug\netcoreapp3.1\Inheritance13.csproj.CoreCompileInputs.cache
+D:\Dot net practical\file27\Inheritance10_6\obj\Debug\netcoreapp3.1\Inheritance13.MvcApplicationPartsAssemblyInfo.cache
+D:\Dot net practical\file27\Inheritance10_6\obj\Debug\netcoreapp3.1\Inheritance13.RazorAssemblyInfo.cache
+D:\Dot net practical\file27\Inheritance10_6\obj\Debug\netcoreapp3.1\Inheritance13.RazorAssemblyInfo.cs
+D:\Dot net practical\file27\Inheritance10_6\obj\Debug\netcoreapp3.1\Inheritance13.TagHelpers.input.cache
+D:\Dot net practical\file27\Inheritance10_6\obj\Debug\netcoreapp3.1\Inheritance13.TagHelpers.output.cache
+D:\Dot net practical\file27\Inheritance10_6\obj\Debug\netcoreapp3.1\Inheritance13.RazorCoreGenerate.cache
+D:\Dot net practical\file27\Inheritance10_6\obj\Debug\netcoreapp3.1\Razor\Views\Home\AboutMe.cshtml.g.cs
+D:\Dot net practical\file27\Inheritance10_6\obj\Debug\netcoreapp3.1\Razor\Views\Home\CreatePersonDetail.cshtml.g.cs
+D:\Dot net practical\file27\Inheritance10_6\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Dot net practical\file27\Inheritance10_6\obj\Debug\netcoreapp3.1\Razor\Views\Home\PersonalDetail.cshtml.g.cs
+D:\Dot net practical\file27\Inheritance10_6\obj\Debug\netcoreapp3.1\Razor\Views\Home\PersonalDetailDelete.cshtml.g.cs
+D:\Dot net practical\file27\Inheritance10_6\obj\Debug\netcoreapp3.1\Razor\Views\Home\PersonalDetailEdit.cshtml.g.cs
+D:\Dot net practical\file27\Inheritance10_6\obj\Debug\netcoreapp3.1\Razor\Views\Home\Persons.cshtml.g.cs
+D:\Dot net practical\file27\Inheritance10_6\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Dot net practical\file27\Inheritance10_6\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Dot net practical\file27\Inheritance10_6\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Dot net practical\file27\Inheritance10_6\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Dot net practical\file27\Inheritance10_6\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Dot net practical\file27\Inheritance10_6\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Dot net practical\file27\Inheritance10_6\obj\Debug\netcoreapp3.1\Inheritance13.RazorTargetAssemblyInfo.cache
+D:\Dot net practical\file27\Inheritance10_6\obj\Debug\netcoreapp3.1\Inheritance13.RazorTargetAssemblyInfo.cs
+D:\Dot net practical\file27\Inheritance10_6\obj\Debug\netcoreapp3.1\Inheritance13.Views.pdb
+D:\Dot net practical\file27\Inheritance10_6\obj\Debug\netcoreapp3.1\Inheritance13.csproj.CopyComplete
+D:\Dot net practical\file27\Inheritance10_6\obj\Debug\netcoreapp3.1\staticwebassets\Inheritance13.StaticWebAssets.Manifest.cache
+D:\Dot net practical\file27\Inheritance10_6\obj\Debug\netcoreapp3.1\staticwebassets\Inheritance13.StaticWebAssets.xml
+D:\Dot net practical\file27\Inheritance10_6\obj\Debug\netcoreapp3.1\Inheritance13.dll
+D:\Dot net practical\file27\Inheritance10_6\obj\Debug\netcoreapp3.1\Inheritance13.pdb
+D:\Dot net practical\file27\Inheritance10_6\obj\Debug\netcoreapp3.1\Inheritance13.genruntimeconfig.cache
+D:\Dot net practical\file27\Inheritance10_6\obj\Debug\netcoreapp3.1\Razor\Views\Async\Index.cshtml.g.cs
+D:\Dot net practical\file27\Inheritance10_6\obj\Debug\netcoreapp3.1\scopedcss\bundle\Inheritance13.styles.css

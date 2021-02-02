@@ -1,0 +1,63 @@
+﻿@model List<PersonalDetail>
+@{
+    ViewData["Title"] = "Person collection in our list";
+    int counter = 1;
+}
+
+<h1>Persons</h1>
+@Html.ActionLink("Add New Person Detail", "CreatePersonDetail", "Home", null, new { @class = "btn btn-primary" })
+<table border="1">
+    <thead>
+        <tr>
+            <th>SN.</th>
+            <th>Name</th>
+            <th>Address</th>
+            <th>Occupation</th>
+            <th>DOB</th>
+            <th>Current Date</th>
+            <th>Currrent Time</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var person in Model)
+        {
+            string fullName = person.FirstName + " " + person.MiddleName + " " + person.LastName;
+            int fullNameLenght = fullName.Length;
+            if (fullNameLenght > 15)
+            {
+                if (person.MiddleName != null)
+                {
+                    var characterarray = person.MiddleName.ToCharArray();
+                    fullName = person.FirstName + " " + (String.IsNullOrEmpty(person.MiddleName) ? "" : person.MiddleName.Substring(0, 1).ToUpper() + " ") + person.LastName;
+                }
+                else
+                {
+                    fullName = person.FirstName + " " + person.LastName;
+                }
+
+
+                fullNameLenght = fullName.Length;
+                if (fullNameLenght > 15)
+                {
+                    fullName = person.FirstName.Substring(0, 1) + " " + (person.MiddleName == null ? "" : person.MiddleName.Substring(0, 1) + " ").ToUpper() + person.LastName;
+                }
+            }
+            <tr>
+                <td>@counter</td>
+                <td>@fullName </td>
+                <td>@person.Address</td>
+                <td>@person.Occupation</td>
+                <td>@PersonMemory.GetDateInFormat(person.DOB)</td>
+                <td>@PersonMemory.GetDateInFormat(System.DateTime.Now)</td>
+                <td>@System.DateTime.Now.ToString("hh-mm-ss")</td>
+                <td>
+                    @Html.ActionLink("View", "PersonalDetail", "Home", new { personDetailId = person.PersonalDetailId }, new { @class = "btn btn-info" })
+                    @Html.ActionLink("Edit", "PersonalDetailEdit", "Home", new { personDetailId = person.PersonalDetailId }, new { @class = "btn btn-secondary" })
+                    @Html.ActionLink("Delete", "PersonalDetailDelete", "Home", new { personDetailId = person.PersonalDetailId }, new { @class = "btn btn-secondary" })
+                </td>
+            </tr>
+            counter++;
+        }
+    </tbody>
+</table>

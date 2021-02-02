@@ -1,0 +1,57 @@
+﻿@model PersonalDetail
+@{
+    ViewData["Title"] = "PersonalDetail";
+}
+
+<h1>PersonalDetail</h1>
+<h2>Here is my personal details</h2>
+
+@Html.ActionLink("Person List", "Persons", "Home", null, new { @class = "btn btn-primary" })
+@using (Html.BeginForm("PersonalDetailEdit", "Home", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{@Html.ValidationSummary(true)
+@Html.HiddenFor(x => Model.PersonalDetailId)
+<table border="1">
+    @if (Model.ErrorMsg != null)
+    {
+        <tr>
+            <td>@Html.DisplayNameFor(x => x.ErrorMsg)</td>
+            <td>@Html.DisplayFor(x => Model.ErrorMsg)</td>
+        </tr>
+    }
+    <tr>
+        <td>Particular</td>
+        <td>Details</td>
+        <td></td>
+    </tr>
+
+    <tr>
+        <td>@Html.DisplayNameFor(x => x.FirstName)</td>
+        <td>@Html.TextBoxFor(x => Model.FirstName)</td>
+        <td> @Html.ValidationMessageFor(x => Model.FirstName)</td>
+    </tr>
+    <tr>
+        <td>@Html.DisplayNameFor(x => x.Address)</td>
+        <td>@Html.TextBoxFor(x => Model.Address)</td>
+        <td> @Html.ValidationMessageFor(x => Model.Address)</td>
+    </tr>
+    <tr>
+        <td>@Html.DisplayNameFor(x => x.Age)</td>
+        <td>@Html.TextBoxFor(x => Model.Age)</td>
+        <td> @Html.ValidationMessageFor(x => Model.Age)</td>
+    </tr>
+    <tr>
+        <td>@Html.DisplayNameFor(x => x.Occupation)</td>
+        <td>@Html.TextBoxFor(x => Model.Occupation)</td>
+        <td> @Html.ValidationMessageFor(x => Model.Occupation)</td>
+    </tr>
+    <tr>
+        <td>@Html.LabelFor(x => x.ImageLocation)</td>
+        <td><input type="file" name="profile-image" /></td>
+    </tr>
+    <tr>
+        <td colspan="2"><button type="submit"><i class="btn btn-save"></i> Edit</button></td>
+    </tr>
+</table>
+}
+
+
